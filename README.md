@@ -1,5 +1,6 @@
 <h1 align="center">Nirajan Adhikari</h1>
 <h3 align="center">📊 Data Analyst | Python • Power BI • SQL • Excel | </h3>
+
  <h3 align="center"> Turning data into insights </h3>
 
 
