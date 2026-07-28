@@ -16,19 +16,7 @@
 
 ### 🌐 Connect with Me
 
-<p left>
-  <a href="https://www.linkedin.com/in/nirajan-adhikari10/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:nirajan.adhikari.np@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/niran-adhikari" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
-
-<br/>
+<p left> <a href="https://www.linkedin.com/in/nirajan-adhikari10/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" title="LinkedIn" alt="LinkedIn" width="50" height="50"/> </a>&nbsp; <a href="mailto:nirajan.adhikari.np@gmail.com"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/google/google-original.svg" title="Gmail" alt="Gmail" width="50" height="50"/> </a>&nbsp; <a href="https://github.com/niran-adhikari" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="50" height="50"/> </a>&nbsp; </p> <br/>
 
 ### 🛠️ Languages & Databases
 
