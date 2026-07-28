@@ -4,12 +4,14 @@
 
 
 <br/>
+
 ## 👋 About Me
-🎓 Bachelor's in Information Technology
-📊 Building data analytics projects using Excel, SQL, Power BI, and Python
-📈 Interested in data visualization, business insights, and dashboard development
-🌱 Continuously learning and improving my data analytics skills
-💼 Open to Data Analyst / Data Analytics Internship opportunities
+- 🎓 Bachelor's in Information Technology
+- 📊 Building data analytics projects using Excel, SQL, Power BI, and Python
+- 📈 Interested in data visualization, business insights, and dashboard development
+- 🌱 Continuously learning and improving my data analytics skills
+- 💼 Open to Data Analyst / Data Analytics Internship opportunities
+  
 <br/>
 
 
