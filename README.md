@@ -42,10 +42,10 @@
 
 ### 📌 Featured Projects
 
-<!-- Replace these with your actual repo names/links -->
+<!-- Replace these with your actual repo names/links 
 - 🔹 **[Project Name 1](https://github.com/niran-adhikari/repo-name)** — Short one-line description of what the dashboard/analysis does.
 - 🔹 **[Project Name 2](https://github.com/niran-adhikari/repo-name)** — Short one-line description of what the dashboard/analysis does.
-- 🔹 **[Project Name 3](https://github.com/niran-adhikari/repo-name)** — Short one-line description of what the dashboard/analysis does.
+- 🔹 **[Project Name 3](https://github.com/niran-adhikari/repo-name)** — Short one-line description of what the dashboard/analysis does. -->
 
 <br/>
 
