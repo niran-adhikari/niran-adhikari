@@ -4,12 +4,12 @@
 
 <br/>
 
-About Me
-
-- 📊 Currently working on **Excel & Power BI Dashboards** (with working knowledge of **SQL** and **Python**)
-- 🌱 I'm currently learning **Data Analytics & Dashboarding Techniques**
-- 🎓 Bachelor's in **Information Technology**
-- 💼 Aspiring **Data Analyst**
+👋 About Me
+🎓 Bachelor's in Information Technology
+📊 Building data analytics projects using Excel, SQL, Power BI, and Python
+📈 Interested in data visualization, business insights, and dashboard development
+🌱 Continuously learning and improving my data analytics skills
+💼 Open to Data Analyst / Data Analytics Internship opportunities
 
 
 <br/>
@@ -20,11 +20,23 @@ About Me
 
 ### 🛠️ Languages & Databases
 
-<p left> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="Python" alt="Python" width="50" height="50"/>&nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" title="SQL" alt="SQL" width="50" height="50"/>&nbsp; <img src="https://img.icons8.com/color/96/microsoft-excel-2019.png" title="Excel" alt="Excel" width="50" height="50"/>&nbsp; </p>
+<p left> 
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="Python" alt="Python" width="50" height="50"/>&nbsp; 
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" title="SQL" alt="SQL" width="50" height="50"/>&nbsp; 
+</p>
 
 ### 📈 Data Analysis & Visualization
 
-<p left> <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/PNG/Power-BI.png" title="Power BI" alt="Power BI" width="50" height="50"/>&nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas" width="50" height="50"/>&nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" title="NumPy" alt="NumPy" width="50" height="50"/>&nbsp; <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" title="Matplotlib" alt="Matplotlib" width="50" height="50"/>&nbsp; <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" title="Seaborn" alt="Seaborn" width="50" height="50"/>&nbsp; </p> <br/>
+<p left> 
+ <img src="https://img.icons8.com/color/96/microsoft-excel-2019.png" title="Excel" alt="Excel" width="50" height="50"/>&nbsp; 
+ <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/PNG/Power-BI.png" title="Power BI" alt="Power BI" width="50" height="50"/>&nbsp; 
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas" width="50" height="50"/>&nbsp; 
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" title="NumPy" alt="NumPy" width="50" height="50"/>&nbsp;
+ <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" title="Matplotlib" alt="Matplotlib" width="50" height="50"/>&nbsp; 
+ <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" title="Seaborn" alt="Seaborn" width="50" height="50"/>&nbsp; 
+</p> 
+
+<br/>
 
 ### 📌 Featured Projects
 
