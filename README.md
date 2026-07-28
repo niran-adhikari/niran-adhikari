@@ -1,5 +1,6 @@
 <h1 align="center">Nirajan Adhikari</h1>
-<h3 align="center">📊 Data Analyst | Python • Power BI • SQL • Excel | Turning data into insights 🚀</h3>
+<h3 align="center">📊 Data Analyst | Python • Power BI • SQL • Excel | </h3>
+ <h3 align="center"> Turning data into insights 🚀</h3>
 
 <br/>
 
@@ -9,7 +10,6 @@
 - 🌱 I'm currently learning **Data Analytics & Dashboarding Techniques**
 - 🎓 Bachelor's in **Information Technology**
 - 💼 Aspiring **Data Analyst**
-- 📫 Reach me at: [nirajan.adhikari.np@gmail.com](mailto:nirajan.adhikari.np@gmail.com)
 
 
 <br/>
