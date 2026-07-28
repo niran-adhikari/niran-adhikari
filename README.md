@@ -18,18 +18,18 @@
 
 ### 🌐 Connect with Me
 
-<p left> <a href="https://www.linkedin.com/in/nirajan-adhikari10/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" title="LinkedIn" alt="LinkedIn" width="50" height="50"/> </a>&nbsp; <a href="mailto:nirajan.adhikari.np@gmail.com"> <img src="https://cdn.simpleicons.org/gmail/EA4335" title="Gmail" alt="Gmail" width="50" height="50"/> </a>&nbsp; <a href="https://github.com/niran-adhikari" target="_blank"> <img src="https://cdn.simpleicons.org/github/FFFFFF" title="GitHub" alt="GitHub" width="50" height="50"/> </a>&nbsp; </p> <br/>
+<p align="left"> <a href="https://www.linkedin.com/in/nirajan-adhikari10/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" title="LinkedIn" alt="LinkedIn" width="50" height="50"/> </a>&nbsp; <a href="mailto:nirajan.adhikari.np@gmail.com"> <img src="https://cdn.simpleicons.org/gmail/EA4335" title="Gmail" alt="Gmail" width="50" height="50"/> </a>&nbsp; <a href="https://github.com/niran-adhikari" target="_blank"> <img src="https://cdn.simpleicons.org/github/FFFFFF" title="GitHub" alt="GitHub" width="50" height="50"/> </a>&nbsp; </p> <br/>
 
 ### 🛠️ Languages & Databases
 
-<p left> 
+<<p align="left">
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="Python" alt="Python" width="50" height="50"/>&nbsp; 
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" title="SQL" alt="SQL" width="50" height="50"/>&nbsp; 
 </p>
 
 ### 📈 Data Analysis & Visualization
 
-<p left> 
+<p align="left">
  <img src="https://img.icons8.com/color/96/microsoft-excel-2019.png" title="Excel" alt="Excel" width="50" height="50"/>&nbsp; 
  <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/PNG/Power-BI.png" title="Power BI" alt="Power BI" width="50" height="50"/>&nbsp; 
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas" width="50" height="50"/>&nbsp; 
