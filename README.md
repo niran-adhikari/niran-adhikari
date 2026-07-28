@@ -16,39 +16,15 @@ About Me
 
 ### 🌐 Connect with Me
 
-<p left>
-  <a href="https://www.linkedin.com/in/nirajan-adhikari10/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" title="LinkedIn" alt="LinkedIn" width="50" height="50"/>
-  </a>&nbsp;
-  <a href="mailto:nirajan.adhikari.np@gmail.com">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/google/google-original.svg" title="Gmail" alt="Gmail" width="50" height="50"/>
-  </a>&nbsp;
-  <a href="https://github.com/niran-adhikari" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="50" height="50"/>
-  </a>&nbsp;
-</p>
-
-<br/>
+<p left> <a href="https://www.linkedin.com/in/nirajan-adhikari10/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" title="LinkedIn" alt="LinkedIn" width="50" height="50"/> </a>&nbsp; <a href="mailto:nirajan.adhikari.np@gmail.com"> <img src="https://cdn.simpleicons.org/gmail/EA4335" title="Gmail" alt="Gmail" width="50" height="50"/> </a>&nbsp; <a href="https://github.com/niran-adhikari" target="_blank"> <img src="https://cdn.simpleicons.org/github/FFFFFF" title="GitHub" alt="GitHub" width="50" height="50"/> </a>&nbsp; </p> <br/>
 
 ### 🛠️ Languages & Databases
 
-<p left>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="Python" alt="Python" width="50" height="50"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" title="SQL" alt="SQL" width="50" height="50"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/EndBug/latex-on-readme@master/images/microsoftexcel.svg" title="Excel" alt="Excel" width="50" height="50"/>&nbsp;
-</p>
+<p left> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="Python" alt="Python" width="50" height="50"/>&nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" title="SQL" alt="SQL" width="50" height="50"/>&nbsp; <img src="https://cdn.simpleicons.org/microsoftexcel/217346" title="Excel" alt="Excel" width="50" height="50"/>&nbsp; </p>
 
 ### 📈 Data Analysis & Visualization
 
-<p left>
-  <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/PNG/Power-BI.png" title="Power BI" alt="Power BI" width="50" height="50"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas" width="50" height="50"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" title="NumPy" alt="NumPy" width="50" height="50"/>&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" title="Matplotlib" alt="Matplotlib" width="50" height="50"/>&nbsp;
-  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" title="Seaborn" alt="Seaborn" width="50" height="50"/>&nbsp;
-</p>
-
-<br/>
+<p left> <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/PNG/Power-BI.png" title="Power BI" alt="Power BI" width="50" height="50"/>&nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas" width="50" height="50"/>&nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" title="NumPy" alt="NumPy" width="50" height="50"/>&nbsp; <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" title="Matplotlib" alt="Matplotlib" width="50" height="50"/>&nbsp; <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" title="Seaborn" alt="Seaborn" width="50" height="50"/>&nbsp; </p> <br/>
 
 ### 📌 Featured Projects
 
