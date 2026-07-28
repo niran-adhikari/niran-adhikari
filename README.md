@@ -4,13 +4,12 @@
 
 
 <br/>
-👨‍💻 About Me
-📊 Currently working on Excel & Power BI Dashboards (with working knowledge of SQL and Python)
-🌱 I'm currently learning Data Analytics & Dashboarding Techniques
+###  About Me
 🎓 Bachelor's in Information Technology
-💼 Aspiring Data Analyst
-📫 Reach me at: nirajan.adhikari.np@gmail.com
-⚡ Fun fact: I love turning raw data into clear, actionable stories
+📊 Building data analytics projects using Excel, SQL, Power BI, and Python
+📈 Interested in data visualization, business insights, and dashboard development
+🌱 Continuously learning and improving my data analytics skills
+💼 Open to Data Analyst / Data Analytics Internship opportunities
 <br/>
 
 
