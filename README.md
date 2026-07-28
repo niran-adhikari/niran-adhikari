@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nirajan Adhikari</h1>
-<h3 align="center">📊 Data Analyst | Python • Power BI • SQL • Excel | Turning data into insights 🚀</h3>
+<h3 align="center">📊 Data Analyst | Python • Power BI • SQL • Excel | </h3>
+  <h3 align="center"> Turning data into insights </h3>
 
 <br/>
 
@@ -10,7 +11,6 @@
 - 🎓 Bachelor's in **Information Technology**
 - 💼 Aspiring **Data Analyst**
 - 📫 Reach me at: [nirajan.adhikari.np@gmail.com](mailto:nirajan.adhikari.np@gmail.com)
-- ⚡ Fun fact: I love turning raw data into clear, actionable stories
 
 <br/>
 
@@ -35,12 +35,12 @@
 <p left>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
 </p>
 
 ### 📈 Data Analysis & Visualization
 
 <p left>
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
