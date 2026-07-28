@@ -51,7 +51,7 @@
 
 ### 📊 GitHub Stats
 
-<p align="center">
+<!-- <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=niran-adhikari&show_icons=true&theme=default" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=niran-adhikari&layout=compact&theme=default" />
 </p>
@@ -60,6 +60,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=niran-adhikari&theme=default" />
 </p>
 
-<br/>
+<br/> -->
 
 <p align="center"><i> Thanks for visiting my profile</i></p>
