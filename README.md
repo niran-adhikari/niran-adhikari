@@ -1,16 +1,13 @@
-## Hi there 👋
 
-<!--
-**niran-adhikari/niran-adhikari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+																								 
+																								 Nirajan Adhikari
 
-Here are some ideas to get you started:
+                                         📊 Data Analyst | SQL · Excel · Power BI · Python |
+                                               | Turning Raw Data into insights | 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+
+
+
