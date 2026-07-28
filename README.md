@@ -4,7 +4,7 @@
 
 
 <br/>
-### 👋 About Me
+## 👋 About Me
 🎓 Bachelor's in Information Technology
 📊 Building data analytics projects using Excel, SQL, Power BI, and Python
 📈 Interested in data visualization, business insights, and dashboard development
