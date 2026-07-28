@@ -1,10 +1,10 @@
 <h1 align="center">Nirajan Adhikari</h1>
 <h3 align="center">📊 Data Analyst | Python • Power BI • SQL • Excel | </h3>
- <h3 align="center"> Turning data into insights 🚀</h3>
+ <h3 align="center"> Turning data into insights </h3>
 
 <br/>
 
-###About Me
+About Me
 
 - 📊 Currently working on **Excel & Power BI Dashboards** (with working knowledge of **SQL** and **Python**)
 - 🌱 I'm currently learning **Data Analytics & Dashboarding Techniques**
