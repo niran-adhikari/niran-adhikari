@@ -20,7 +20,7 @@ About Me
 
 ### 🛠️ Languages & Databases
 
-<p left> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="Python" alt="Python" width="50" height="50"/>&nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" title="SQL" alt="SQL" width="50" height="50"/>&nbsp; <img src="https://cdn.simpleicons.org/microsoftexcel/217346" title="Excel" alt="Excel" width="50" height="50"/>&nbsp; </p>
+<p left> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="Python" alt="Python" width="50" height="50"/>&nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" title="SQL" alt="SQL" width="50" height="50"/>&nbsp; <img src="https://img.icons8.com/color/96/microsoft-excel-2019.png" title="Excel" alt="Excel" width="50" height="50"/>&nbsp; </p>
 
 ### 📈 Data Analysis & Visualization
 
