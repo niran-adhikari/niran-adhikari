@@ -48,4 +48,4 @@ About Me
 
 <br/>
 
-<p align="center"><i>⭐️ Thanks for visiting my profile — let's turn data into decisions!</i></p>
+<p align="center"><i> Thanks for visiting my profile</i></p>
